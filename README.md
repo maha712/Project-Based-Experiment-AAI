@@ -6,7 +6,7 @@
 To perform sentiment analysis on Facebook data using Python and TextBlob, and to count the number of times the name "Maha" appears in the extracted text.
   
 <H3>Program:</H3>
-```
+
 # Install required libraries (run once)
 # pip install pandas textblob
 
@@ -39,7 +39,7 @@ all_text = " ".join(df['FBPost'].astype(str))
 name_count = all_text.lower().count(your_name.lower())
 
 print(f"\nThe name '{your_name}' appears {name_count} times in the Facebook posts.")
-```
+
 
 <H3>Output:</H3>
 
