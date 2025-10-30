@@ -6,7 +6,7 @@
 To perform sentiment analysis on Facebook data using Python and TextBlob, and to count the number of times the name "Maha" appears in the extracted text.
   
 <H3>Program:</H3>
-  ```
+```
 # Install required libraries (run once)
 # pip install pandas textblob
 
