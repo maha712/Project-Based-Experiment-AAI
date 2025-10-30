@@ -40,6 +40,7 @@ name_count = all_text.lower().count(your_name.lower())
 
 print(f"\nThe name '{your_name}' appears {name_count} times in the Facebook posts.")
 ```
+
 <H3>Output:</H3>
 
 <img width="790" height="517" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/fd568478-2e47-41c6-bc86-1f480639bff7" />
